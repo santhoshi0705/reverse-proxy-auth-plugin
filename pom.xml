@@ -31,13 +31,13 @@
   <version>2.5</version>
   <packaging>pom</packaging>
 
-  <name>Jenkins Plugin Parent POM</name>
-  <description>The Jenkins Plugins Parent POM Project</description>
+  <name>reverse-proxy-auth-plugin</name>
+  <description>reverse-proxy-auth-plugin</description>
   <inceptionYear>2016</inceptionYear>
 
   <scm>
-    <connection>scm:git:ssh://git@github.com/jenkinsci/plugin-pom.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/plugin-pom.git</developerConnection>
+    <connection>scm:git:https://github.com/santhoshi0705/reverse-proxy-auth-plugin.git</connection>
+   <developerConnection>scm:git:ssh://git@github.com/santhoshi0705/reverse-proxy-auth-plugin.git</developerConnection>
     <tag>plugin-2.5</tag>
   </scm>
 
